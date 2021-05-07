@@ -6,6 +6,7 @@ A collection of helper classes for flutter. Owned by JinnByte Pvt. Ltd.
 
 ## 🎥 VIDEO PLAYER
 ## 🗺 MAPS POLYLINE WITH COORDINATES VIEW
+## 🚘 Calculate distance and travel time between two points
 
 all right reserved JinnByte Pvt. Ltd.
 
